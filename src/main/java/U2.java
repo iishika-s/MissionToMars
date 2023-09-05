@@ -22,6 +22,7 @@ public class U2 extends Rocket{
         return landingCrashPossibility() < Math.random();
     }
     //yudgwbcwnm
+    //new changes for UI testing
 //wugw
     @Override
     public boolean launch(){
